@@ -39,7 +39,6 @@ Original work:
 https://github.com/igorpecovnik/lib 
 
 U-Boot:
-https://github.com/UDOOboard/uboot-imx
-
+https://github.com/MANOPRIYABOARD/development/tree/master/u-boot-2015-04-secoboards-imx6sx-rel
 Kernel:
-https://github.com/UDOOboard/linux_kernel/
+https://github.com/MANOPRIYABOARD/development/tree/master/linux-4-1-15-secoboards-imx6sx-rel
