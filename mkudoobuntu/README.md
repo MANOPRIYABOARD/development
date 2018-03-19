@@ -40,5 +40,6 @@ https://github.com/igorpecovnik/lib
 
 U-Boot:
 https://github.com/MANOPRIYABOARD/development/tree/master/u-boot-2015-04-secoboards-imx6sx-rel
+
 Kernel:
 https://github.com/MANOPRIYABOARD/development/tree/master/linux-4-1-15-secoboards-imx6sx-rel
